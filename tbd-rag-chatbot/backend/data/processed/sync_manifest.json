@@ -1,0 +1,112 @@
+[
+  {
+    "url": "https://tbd.edu.vn/tuyen-sinh/hoc-phi/",
+    "title": "Học phí - Trường Đại học Thái Bình Dương",
+    "status": "success",
+    "local_json": "data\\raw\\web_pages\\tuyen-sinh_hoc-phi.json",
+    "local_markdown": "data\\raw\\web_pages\\tuyen-sinh_hoc-phi.md",
+    "last_fetched_at": "2026-06-21T11:01:43.697003+00:00",
+    "content_hash": "23b42a494cebb1ae74a8ce63bd25ea24d404df42e6b3aeb9d35fd643cfc16d38",
+    "error": null
+  },
+  {
+    "url": "https://tbd.edu.vn/",
+    "title": "Trường Đại học Thái Bình Dương",
+    "status": "success",
+    "local_json": "data\\raw\\web_pages\\index.json",
+    "local_markdown": "data\\raw\\web_pages\\index.md",
+    "last_fetched_at": "2026-06-21T11:01:40.647947+00:00",
+    "content_hash": "4c29b5a09ccd5aa8d99d4c27a943de5bd9d202ed5997b399843179a594360af6",
+    "error": null
+  },
+  {
+    "url": "https://tbd.edu.vn/tuyen-sinh/hoi-dap/",
+    "title": "Hỏi - Đáp - Trường Đại học Thái Bình Dương",
+    "status": "success",
+    "local_json": "data\\raw\\web_pages\\tuyen-sinh_hoi-dap.json",
+    "local_markdown": "data\\raw\\web_pages\\tuyen-sinh_hoi-dap.md",
+    "last_fetched_at": "2026-06-21T11:01:46.163374+00:00",
+    "content_hash": "db91baba9ad0d4970ad13ad87d26cff16d5beebd7cfd9bbfee96c583505ab155",
+    "error": null
+  },
+  {
+    "url": "https://tbd.edu.vn/tuyen-sinh/hoc-bong-va-ho-tro-tai-chinh/",
+    "title": "Học bổng và Hỗ trợ Tài chính - Trường Đại học Thái Bình Dương",
+    "status": "success",
+    "local_json": "data\\raw\\web_pages\\tuyen-sinh_hoc-bong-va-ho-tro-tai-chinh.json",
+    "local_markdown": "data\\raw\\web_pages\\tuyen-sinh_hoc-bong-va-ho-tro-tai-chinh.md",
+    "last_fetched_at": "2026-06-21T11:01:48.243452+00:00",
+    "content_hash": "b0126fe96b11994513a94b8b37dae585dcd79ad82b6d862708ba710fff53a06f",
+    "error": null
+  },
+  {
+    "url": "https://tbd.edu.vn/tuyen-sinh/thong-tin-xet-tuyen/",
+    "title": "Thông tin xét tuyển - Trường Đại học Thái Bình Dương",
+    "status": "success",
+    "local_json": "data\\raw\\web_pages\\tuyen-sinh_thong-tin-xet-tuyen.json",
+    "local_markdown": "data\\raw\\web_pages\\tuyen-sinh_thong-tin-xet-tuyen.md",
+    "last_fetched_at": "2026-06-21T11:01:50.266405+00:00",
+    "content_hash": "be2b574d6430521e84d10137f91ce82d2dd390e3a12160ff5e0abc5b95400de6",
+    "error": null
+  },
+  {
+    "url": "https://tbd.edu.vn/tuyen-sinh/10-ly-do-chon-tbd/",
+    "title": "10 Lý do chọn TBD - Trường Đại học Thái Bình Dương",
+    "status": "success",
+    "local_json": "data\\raw\\web_pages\\tuyen-sinh_10-ly-do-chon-tbd.json",
+    "local_markdown": "data\\raw\\web_pages\\tuyen-sinh_10-ly-do-chon-tbd.md",
+    "last_fetched_at": "2026-06-21T11:01:52.368638+00:00",
+    "content_hash": "5b9c8fa43a58497559d9c9ad729e04b197e84117965a3e5c4ef075573ec3b8c7",
+    "error": null
+  },
+  {
+    "url": "https://tbd.edu.vn/sinh-vien/lien-he-dat-lich-hen/",
+    "title": "Liên hệ – Đặt lịch hẹn - Trường Đại học Thái Bình Dương",
+    "status": "success",
+    "local_json": "data\\raw\\web_pages\\sinh-vien_lien-he-dat-lich-hen.json",
+    "local_markdown": "data\\raw\\web_pages\\sinh-vien_lien-he-dat-lich-hen.md",
+    "last_fetched_at": "2026-06-21T11:01:54.473110+00:00",
+    "content_hash": "a60ebaa2e553416aab6bcef48f5222c8e65a9020d40d0c6d8034d2edba30577f",
+    "error": null
+  },
+  {
+    "url": "https://tbd.edu.vn/thong-bao/thong-bao-ve-muc-thu-hoc-phi-le-phi-va-cac-quy-dinh-hoan-tra-ho-so-hoc-phi-le-phi-ap-dung-cho-nam-hoc-2026-2027/",
+    "title": "Thông báo mức thu học phí, lệ phí và các quy định hoàn trả hồ sơ, học phí, lệ phí áp dụng từ năm học 2026-2027 - Trường Đại học Thái Bình Dương",
+    "status": "success",
+    "local_json": "data\\raw\\web_pages\\thong-bao_thong-bao-ve-muc-thu-hoc-phi-le-phi-va-cac-quy-dinh-hoan-tra-ho-so-hoc-phi-le-phi-ap-dung-cho-nam-hoc-2026-2027.json",
+    "local_markdown": "data\\raw\\web_pages\\thong-bao_thong-bao-ve-muc-thu-hoc-phi-le-phi-va-cac-quy-dinh-hoan-tra-ho-so-hoc-phi-le-phi-ap-dung-cho-nam-hoc-2026-2027.md",
+    "last_fetched_at": "2026-06-21T11:01:58.802745+00:00",
+    "content_hash": "489dfbe4b4652f0f209909ca9a5a3aa088ee13376818dd3b9baa096a0a211466",
+    "error": null
+  },
+  {
+    "url": "https://tbd.edu.vn/tin-tuc/truong-dai-hoc-thai-binh-duong-cong-bo-hon-400-suat-hoc-bong-tuyen-sinh-nam-2026/",
+    "title": "Trường Đại học Thái Bình Dương công bố hơn 400 suất học bổng tuyển sinh năm 2026 - Trường Đại học Thái Bình Dương",
+    "status": "success",
+    "local_json": "data\\raw\\web_pages\\tin-tuc_truong-dai-hoc-thai-binh-duong-cong-bo-hon-400-suat-hoc-bong-tuyen-sinh-nam-2026.json",
+    "local_markdown": "data\\raw\\web_pages\\tin-tuc_truong-dai-hoc-thai-binh-duong-cong-bo-hon-400-suat-hoc-bong-tuyen-sinh-nam-2026.md",
+    "last_fetched_at": "2026-06-21T11:02:00.927914+00:00",
+    "content_hash": "00fd369fa887820a50d29b29d55d44b19c204b093cd8f4609e15237d1dd794a3",
+    "error": null
+  },
+  {
+    "url": "https://tuyensinh.tbd.edu.vn/",
+    "title": "Tuyển sinh - Đại Học Thái Bình Dương",
+    "status": "success",
+    "local_json": "data\\raw\\web_pages\\tuyensinh_index.json",
+    "local_markdown": "data\\raw\\web_pages\\tuyensinh_index.md",
+    "last_fetched_at": "2026-06-21T11:02:02.732589+00:00",
+    "content_hash": "acee2737fb7a9fa3f22abd71bf297d01ae45809d624a2d7f2f506dfd6b3ed58a",
+    "error": null
+  },
+  {
+    "url": "https://tbd.edu.vn/sinh-vien/ky-tuc-xa/",
+    "title": "Ký túc xá - Trường Đại học Thái Bình Dương",
+    "status": "success",
+    "local_json": "data\\raw\\web_pages\\sinh-vien_ky-tuc-xa.json",
+    "local_markdown": "data\\raw\\web_pages\\sinh-vien_ky-tuc-xa.md",
+    "last_fetched_at": "2026-06-21T11:01:56.559459+00:00",
+    "content_hash": "48f430aa7001d5a1f8b64943f48534b965e4537a9f79e570fb7be48af570c767",
+    "error": null
+  }
+]

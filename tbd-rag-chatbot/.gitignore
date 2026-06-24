@@ -1,0 +1,47 @@
+# Bien moi truong - khong bao gio commit file .env that
+.env
+*.env
+
+# ChromaDB - luu tru vector database
+backend/chroma_db/
+
+# Du lieu thu va tai lieu thu
+backend/data/raw/
+
+# Log files
+backend/logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
